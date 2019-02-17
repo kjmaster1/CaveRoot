@@ -25,7 +25,7 @@ public class CommonProxy {
 
     public static Block driedRootBlock = new BlockDriedRoot();
 
-    public static Block torchFungiBlock = new BlockTorchFungi().setLightLevel(0.9375F + 0.46875F);
+    public static Block torchFungiBlock = new BlockTorchFungi().setLightLevel(1F);
 
     public static Block torchSporeBlock = new BlockTorchSpore().setLightLevel(0.703125F);
 
